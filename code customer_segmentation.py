@@ -5,8 +5,7 @@ import matplotlib.pyplot as plt
 
 # 1. Load the cleaned Excel file
 file_path = "sampled_product_sales_50000 - AFTER.csv"
-df = pd.read_csv(r"C:\GOOD STUFF\UNIVERSITY\YEAR 3\SCOND TERM\BUSINESS ANALYTICS\business analytics project\sampled_product_sales_50000 - AFTER.csv")
-
+df = pd.read_csv(file_path)
 # 2. Clean column names just in case
 df.columns = df.columns.str.strip()
 

@@ -179,3 +179,16 @@ customer_segmentation_results.xlsx
 - Muntasir Ababneh
 - Muntasir Melhem
 - Mahmoud Alobani
+## Dashboard Preview
+
+### Executive Summary
+<img width="1612" height="902" alt="Screenshot 2026-11-17 214659" src="https://github.com/user-attachments/assets/e488e76b-5795-4a10-99c9-0b03dda73df8" />
+### Customer & Marketing Analysis
+
+<img width="1617" height="904" alt="Screenshot 2026-11-17 214738" src="https://github.com/user-attachments/assets/0cf64b47-7f42-4215-82f1-9c95cb42da93" />
+### Product Performance Analysis
+
+<img width="1617" height="906" alt="Screenshot 2026-11-17 214754" src="https://github.com/user-attachments/assets/9438783a-9cfa-4a29-b7f1-afface02dfe6" />
+### Advanced Customer Segmentation
+
+<img width="1616" height="903" alt="Screenshot 2026-11-17 214812" src="https://github.com/user-attachments/assets/129e758d-ff7d-44d6-9836-79e487a69a2a" />

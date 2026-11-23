@@ -176,9 +176,9 @@ customer_segmentation_results.xlsx
 
 ## Contributors
 
-- Muntasir Ababneh
-- Muntasir Melhem
-- Mahmoud Alobani
+- Muntasir M. Ababneh
+- Muntasir M. Melhem
+- Mahmoud H. Alobani
 ## Dashboard Preview
 
 ### Executive Summary
